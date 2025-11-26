@@ -1,6 +1,6 @@
 .holder {
   display: flex;               /* Enables flexbox */
   flex-wrap: wrap;             /* Moves items to next row if needed */
-  justify-content: space-between; /* Evenly spaces items in a row */
+  justify-content: space-evenly; /* Evenly spaces items in a row */
   gap: 10px;                   /* Optional: spacing between items */
 }
